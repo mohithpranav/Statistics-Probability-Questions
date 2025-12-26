@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.*
+*.tmp
+
+# Data files (uncomment if you don't want to track data)
+# *.xlsx
+# *.csv
+
+# OS files
+.DS_Store
+Thumbs.db
